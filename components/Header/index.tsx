@@ -3,7 +3,7 @@ function Header() {
     <div style={{ backgroundColor: "#000", height: "50px" }}>
       <div
         style={{
-          width: "1024px",
+          width: "1440px",
           color: "#FFF",
           fontWeight: "700",
           fontSize: "24px",
