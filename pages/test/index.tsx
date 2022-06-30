@@ -1,7 +1,14 @@
-import { useState } from "react";
+import {
+  JSXElementConstructor,
+  Key,
+  ReactElement,
+  ReactFragment,
+  ReactPortal,
+  useState,
+} from "react";
 import { MainBox, AllBox, ChildrenBox, ItemBox } from "./index.style";
 function Test() {
-  const [toDoData, setToDoData] = useState([]);
+  const [toDoData, setToDoData] = useState([] as any);
   const [finishData, setFinishData] = useState([]);
   const [inProgressData, setInProgressData] = useState([]);
   const [inputData, setInputData] = useState("");
@@ -25,18 +32,18 @@ function Test() {
         </button>
         <AllBox>
           <ChildrenBox>
-            {toDoData.map((item) => {
-              return <ItemBox>aaa</ItemBox>;
+            {toDoData.map((item: string, index: Key | null | undefined) => {
+              return <ItemBox key={index}>{item}</ItemBox>;
             })}
           </ChildrenBox>
           <ChildrenBox>
-            {finishData.map((item) => {
-              return <ItemBox>aaa</ItemBox>;
+            {finishData.map((item, index) => {
+              return <ItemBox key={index}>{item}</ItemBox>;
             })}
           </ChildrenBox>
           <ChildrenBox>
-            {inProgressData.map((item) => {
-              return <ItemBox>aaa</ItemBox>;
+            {inProgressData.map((item, index) => {
+              return <ItemBox key={index}>{item}</ItemBox>;
             })}
           </ChildrenBox>
         </AllBox>
