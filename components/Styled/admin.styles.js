@@ -16,6 +16,7 @@ export const SignUpBox = styled.div`
   position: relative;
   @media (max-width: 640px) {
     width: 80vw;
+    padding: 40px 20px;
   }
 `;
 

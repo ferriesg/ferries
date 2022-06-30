@@ -1,7 +1,7 @@
 import { QuestionCircleOutlined, UserOutlined } from "@ant-design/icons";
 import { Button, Input } from "antd";
 import React, { useState } from "react";
-import { AllBox, RegistereBox, SignUpBox } from "./index.styles";
+import { AllBox, RegistereBox, SignUpBox } from "../../components/Styled/admin.styles";
 
 const Admin: React.FC = () => {
   const [isLogIn, setIsLogIn] = useState(true);

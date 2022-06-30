@@ -6,7 +6,7 @@ import {
   ReactPortal,
   useState,
 } from "react";
-import { MainBox, AllBox, ChildrenBox, ItemBox } from "./index.style";
+import { MainBox, AllBox, ChildrenBox, ItemBox } from "../../components/Styled/test.style";
 function Test() {
   const [toDoData, setToDoData] = useState([] as any);
   const [finishData, setFinishData] = useState([]);
