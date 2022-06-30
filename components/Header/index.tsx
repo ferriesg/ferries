@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div style={{ backgroundColor: "#000", height: "50px" }}>
+    <div style={{ backgroundColor: "#000", height: "50px", display:'flex',alignItems:'center',justifyContent:'center' }}>
       <div
         style={{
           width: "1440px",
