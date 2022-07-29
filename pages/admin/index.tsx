@@ -7,11 +7,11 @@ const Admin: React.FC = () => {
   const [isLogIn, setIsLogIn] = useState(true);
   function completeOperation(){
     if(isLogIn){
-      console.log(111);
+      console.log(3123);
     }else{
       console.log(2222);
     }
-  }
+  } 
   return (
     <AllBox>
       <SignUpBox>
