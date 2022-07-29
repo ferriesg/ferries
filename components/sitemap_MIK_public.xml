@@ -1,188 +1,536 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
-<url>
-                <loc>https://mik.tst.platform.michaels.com/product-recalls</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/product-policy/ca-product-policy</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/track-my-order</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/return-policy</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/shipping-policy</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/coupon-policy-and-price-guarantee</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/tax-exempt</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/terms-and-conditions</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/your-privacy-rights</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/curbside-pickup</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/curbside-pickup</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/download-app</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/shop-save</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/customer-care</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/store-locator</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/accessibility</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/affiliate-program</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/site-map</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/mp/landing</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/shop/michaelspro---buy-in-bulk</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/rewards</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/teacher-discount</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/military-discount</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/senior-discount</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/diversity</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/jobs</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/michaels-gives-back</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/classes</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/projects</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/rewards</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/weekly-ad</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/coupons</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/fgm</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/fgm/classes</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/fgm/projects</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com/fgm/sell</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url><url>
-                <loc>https://mik.tst.platform.michaels.com</loc>
-                <lastmod>Thu Jun 09 2022 06:04:03 GMT+0000 (Coordinated Universal Time)</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.7</priority>
-           </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/accessibility</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/affiliate-program</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/black-friday</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/boredom-busters</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/camp-creatology</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/cart</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/coupon-policy-and-price-guarantee</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/coupons</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/curbside-pickup</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/customer-care</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/cyber-monday</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/design-library</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/diversity</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/download-app</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/guest-history/browsing-history</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/jobs</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/labor-day</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/lowest-prices-of-the-season</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/marketplace</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/michaels-gives-back</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/michaels-pro</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/military-discount</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/presidents-day</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/product-policy/ca-product-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/product-recalls</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/red-white-blue-sale</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/return-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/rewards</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/rewards/rewards-faq</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/rewards/terms</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/senior-discount</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/shipping-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/signin</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/signup</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/site-map</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/store-locator</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/tax-exempt</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/teacher-discount</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/terms-and-conditions</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/track-my-order</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/weekly-ad</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/welcome-ac-moore</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/yarn-pattern-library</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/your-privacy-rights</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/classes</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/projects</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/error404</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/infusible-ink</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/lowestpricesoftheseason</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/makeracademy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/projects/yarn</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/shipping-policy/ca-shipping-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/shopandsave</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/smallbusiness</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/tech101</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/labor-day-sale</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/red-white-and-blue-sale</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/return-policy/ca-return-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/coupon-policy/ca-coupon-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/product-recalls/ca-recall</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/teachers</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/privacyrights</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/presidentsday</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/learningresources</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/marketingcoupon</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/luck-partnership-page</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/jewelry-reseller</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/marketing-coupon</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/small-business</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/laborday</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/teachergiveaway</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/maker-academy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/covid-19-response</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/ups-service</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/value-info</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/accessibility</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/affiliate-program</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/coupon-policy-and-price-guarantee</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/covid-19-response</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/diversity</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/product-policy/ca-product-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/product-recalls</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/return-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/shipping-policy</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/terms-and-conditions</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/withoutHeader/your-privacy-rights</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/michaels-rating-and-review-sweepstakes/ratings-reviews-tc</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://mik.uat.platform.michaels.com/waiting-room</loc>
+          <lastmod>Fri Jul 29 2022 00:51:02 GMT-0500</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
 </urlset>
