@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const axios = require("axios");
 const fs = require("fs");
-async function opneBrower() {
+async function opneBrower(path) {
   const brower = await puppeteer.launch({
     headless: false,
     defaultViewport: {
@@ -24,7 +24,7 @@ async function opneBrower() {
   // await page.goto("https://mik.prod.platform.michaels.com/");
 
   //20s 就执行  而不是等待页面加载完
-  page.goto("https://mik.prod.platform.michaels.com/");
+  page.goto(`https://mik.prod.platform.michaels.com/${path}`);
   await wait(10000);
 
   // const performance = await page.getMetrics();
@@ -106,19 +106,36 @@ async function opneBrower() {
   const promissall = new Set();
   const promise2 = [];
   dimensions.ArrE.forEach(async (item, index) => {
-    let aa = new Promise((resolve, reject) => {
-      axios
-        .get(item.href)
-        .then((res) => {
-          if (res.status == 200) {
-            // result.push([`{href:"${item.href}",status:"${res.status}"}`]);
-            resolve();
-          } else {
-            result.push([`{href:"${item.href}",status:"${res.status}"}`]);
+    let aa =
+      item.href &&
+      new Promise((resolve, reject) => {
+        axios
+          .get(item.href)
+          .then((res) => {
+            if (res.status == 200) {
+              // result.push([`{href:"${item.href}",status:"${res.status}"}`]);
+              resolve();
+            } else {
+              result.push([`{href:"${item.href}",status:"${res.status}"}`]);
+              resolve();
+              // fs.writeFile(
+              //   "require.txt",
+              //   `[{href:"${item.href}",status:"${res.status}"}],`,
+              //   { flag: "a" },
+              //   function (err) {
+              //     if (err) {
+              //       throw err;
+              //     }
+              //   }
+              // );
+            }
+          })
+          .catch((error) => {
+            result.push([`{href:"${item.href}",status:"error"}`]);
             resolve();
             // fs.writeFile(
             //   "require.txt",
-            //   `[{href:"${item.href}",status:"${res.status}"}],`,
+            //   `[{href:"${item.href}",status:"error"}],`,
             //   { flag: "a" },
             //   function (err) {
             //     if (err) {
@@ -126,43 +143,25 @@ async function opneBrower() {
             //     }
             //   }
             // );
-          }
-        })
-        .catch((error) => {
-          result.push([`{href:"${item.href}",status:"error"}`]);
-          resolve();
-          // fs.writeFile(
-          //   "require.txt",
-          //   `[{href:"${item.href}",status:"error"}],`,
-          //   { flag: "a" },
-          //   function (err) {
-          //     if (err) {
-          //       throw err;
-          //     }
-          //   }
-          // );
-        });
-    });
+          });
+      });
     promissall.add(aa);
     promise2.push(aa);
   });
   Promise.all(promise2)
     .then((res) => {
       fs.writeFile(
-          "require1.js",
-          JSON.stringify(result),
-          { flag: "a" },
-          function (err) {
-            if (err) {
-              throw err;
-            }
+        `${path}.js`,
+        JSON.stringify(result),
+        { flag: "a" },
+        function (err) {
+          if (err) {
+            throw err;
           }
-        );
+        }
+      );
     })
     .catch((error) => console.log(error));
-  setTimeout(() => {
-    console.log(result);
-  }, 120000);
 }
 
-opneBrower();
+opneBrower("coupons");
