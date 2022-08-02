@@ -5,11 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next -p 80",
+    "start": "next start -p 80",
     "lint": "next lint",
-    "server_start": "pm2 start ecosystem.config.js",
-    "server_reload": "pm2 reload ecosystem.config.js",
-    "server_stop": "pm2 stop ecosystem.config.js"
+    "server_start": "pm2 start npm -- run start"
   },
   "dependencies": {
     "antd": "^4.21.4",
