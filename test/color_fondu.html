@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .front_box {
+        background-color: black;
+        width: 1000px;
+        height: 1000px;
+        position: relative;
+      }
+      .every_one {
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="front_box" onclick="clickBox()"></div>
+  </body>
+</html>
+<script>
+  function start_to_end(x, y) {
+    const _span = document.createElement("span");
+    let _spanTop = getComputedStyle(_span).bottom.split("px")[0];
+    _span.className = "every_one";
+    _span.style.left = `${x}px`;
+    _span.style.bottom = `0px`;
+    _span.style.backgroundColor = `rgb(${parseInt(
+      Math.random() * 256
+    )},${parseInt(Math.random() * 256)},${parseInt(Math.random() * 256)})`;
+    document.querySelectorAll(".front_box")[0].appendChild(_span);
+    const goToTop = setInterval(() => {
+      _spanTop = Number(_spanTop) + 10;
+      _span.style.bottom = `${_spanTop}px`;
+      console.log(_spanTop, y);
+      if (_spanTop > 1000 - y) {
+        clearInterval(goToTop);
+      }
+    }, 10);
+  }
+  function clickBox() {
+    const e = window.event;
+    start_to_end(e.offsetX, e.offsetY);
+  }
+</script>

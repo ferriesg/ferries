@@ -1,13 +1,24 @@
 {
   "presets": [
-      "next/babel"
-  ], // 覆盖nextjs的默认babel配置，以本文件的babel配置为准
+    ["next/babel",{
+      "preset-env":{},
+      "transform-runtime":{
+        "regenerator": true
+      },
+      "styled-jsx":{},
+      "class-properties":{}
+      }]
+  ],
   "plugins": [
-      [
-          "styled-components",
-          {
-              "ssr": true
-          } // 预编译样式
-      ]
+    "macros",
+    [
+      "styled-components",
+      {
+        "ssr": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ],
+    "@emotion/babel-plugin"
   ]
 }

@@ -1,0 +1,472 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                                                                                                                                                                                                                                               http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
+                                                                                                                                                                                                                                               http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
+     <url>
+          <loc>https://www.michaels.com/</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/accessibility</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/affiliate-program</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/black-friday</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/boredom-busters</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/camp-creatology</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/cart</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/coupon-policy-and-price-guarantee</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/coupons</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/curbside-pickup</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/customer-care</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/cyber-monday</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/design-library</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/diversity</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/download-app</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/guest-history/browsing-history</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/labor-day</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/lowest-prices-of-the-season</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/marketplace</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/michaels-gives-back</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/michaels-pro</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/military-discount</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/presidents-day</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/product-policy/ca-product-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/product-recalls</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/red-white-blue-sale</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/return-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/rewards</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/rewards/rewards-faq</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/rewards/terms</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/senior-discount</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/shipping-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/signin</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/signup</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/site-map</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/store-locator</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/tax-exempt</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/teacher-discount</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/terms-and-conditions</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/track-my-order</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/weekly-ad</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/welcome-ac-moore</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/yarn-pattern-library</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/your-privacy-rights</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/classes</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/projects</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/infusible-ink</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/projects/yarn</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/shipping-policy/ca-shipping-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/tech101</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/return-policy/ca-return-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/coupon-policy/ca-coupon-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/product-recalls/ca-recall</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/teachers</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/privacyrights</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/jewelry-reseller</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/marketing-coupon</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/small-business</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/teachergiveaway</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/maker-academy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/covid-19-response</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/ups-service</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/value-info</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/accessibility</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/affiliate-program</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/coupon-policy-and-price-guarantee</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/covid-19-response</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/diversity</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/product-policy/ca-product-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/product-recalls</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/return-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/shipping-policy</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/terms-and-conditions</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/withoutHeader/your-privacy-rights</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/michaels-rating-and-review-sweepstakes/ratings-reviews-tc</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/waiting-room</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/jobs</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+     <url>
+          <loc>https://www.michaels.com/luck</loc>
+          <lastmod>Tue Sep 27 2022 01:58:26 GMT-0500 </lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.7</priority>
+     </url>
+</urlset>

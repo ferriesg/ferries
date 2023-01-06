@@ -1,22 +1,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://static.platform.michaels.com/sitemap/aps/sitemap_MIK_public.xml</loc>
+        <loc>https://www.michaels.com/sitemap/sitemap_MIK_public.xml</loc>
         <lastmod>2022-05-30T08:39:32+00:00</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://static.platform.michaels.com/sitemap/aps/sitemap_MIK_category.xml</loc>
+        <loc>https://www.michaels.com/sitemap/sitemap_MIK_category.xml</loc>
         <lastmod>2022-05-30T08:39:32+00:00</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://static.platform.michaels.com/sitemap/aps/sitemap_MIK_product.xml</loc>
+        <loc>https://www.michaels.com/sitemap/sitemap_MIK_product.xml</loc>
         <lastmod>2022-05-30T08:39:32+00:00</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://static.platform.michaels.com/sitemap/aps/sitemap_MIK_classes.xml</loc>
+        <loc>https://www.michaels.com/sitemap/sitemap_MIK_classes.xml</loc>
         <lastmod>2022-05-30T08:39:32+00:00</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://static.platform.michaels.com/sitemap/aps/sitemap_MIK_projects.xml</loc>
-        <lastmod>2022-05-30T08:39:32+00:00</lastmod>
+        <loc>https://www.michaels.com/sitemap/sitemap_MIK_projects.xml</loc>
+        <lastmod>2022-06-30T08:39:32+00:00</lastmod>
     </sitemap>
 </sitemapindex>
